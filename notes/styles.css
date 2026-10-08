@@ -1,0 +1,22 @@
+h1 {color:aquamarine}
+p {
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+/* my paragraph text will be half size */
+
+p, h2 {color: blue;}
+/* This is a group selector */
+
+p a {color: darkred;}
+/* changing color of a tags inside of p tags */
+
+#welcome {
+    color: darkorange;
+    text-decoration: none;
+}
+/* id selector only styles one element ever */
+
+.doublesize {font-size: 2em;}
