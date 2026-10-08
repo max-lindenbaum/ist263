@@ -1,0 +1,205 @@
+GRID GUIDE - SITE MEDIA SOURCES (IST 263 Project Milestone 3)
+Max Lindenbaum
+
+All images are in the images/ folder next to this file. Every image is Creative Commons
+licensed on Wikimedia Commons and was resized to 1920px wide from the original.
+Embedded videos are links only (usage rights: NA).
+
+======================================================================
+HOME PAGE
+======================================================================
+
+images/home-hero-race-start.jpg  (1920x1159)
+  Used for:  Hero
+  Title:     Formula 1 2026 Azerbaijan Grand Prix 2.jpg
+  Author:    Press Service of the President of the Republic of Azerbaijan
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:Formula_1_2026_Azerbaijan_Grand_Prix_2.jpg
+
+images/home-what-is-f1-silverstone-crowd.jpg  (1920x1280)
+  Used for:  What is Formula 1?
+  Title:     Woodcote Stand Silverstone Crowd (55384147315).jpg
+  Author:    Jason Puddephatt
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:Woodcote_Stand_Silverstone_Crowd_(55384147315).jpg
+
+images/home-cars-mercedes-w17.jpg  (1920x1080)
+  Used for:  The Cars
+  Title:     2026 Chinese GP - Mercedes - W17.jpg
+  Author:    Liauzh
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Mercedes_-_W17.jpg
+
+images/home-teams-podium.jpg  (1920x1280)
+  Used for:  Teams, Drivers and the Two Championships
+  Title:     Podium celebration at the 2026 Australian Grand Prix (028A8810).jpg
+  Author:    Yu Chu Chin
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:Podium_celebration_at_the_2026_Australian_Grand_Prix_(028A8810).jpg
+
+images/home-weekend-1-practice.jpg  (1920x1080)
+  Used for:  Race Weekend step 1: Friday practice
+  Title:     2026 Chinese GP - McLaren - Oscar Piastri - FP1.jpg
+  Author:    Liauzh
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_McLaren_-_Oscar_Piastri_-_FP1.jpg
+
+images/home-weekend-2-garage.jpg  (1920x1080)
+  Used for:  Race Weekend step 2: Saturday practice
+  Title:     2026 Chinese GP - Aston Martin - AMR26.jpg
+  Author:    Liauzh
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Aston_Martin_-_AMR26.jpg
+
+images/home-weekend-3-qualifying.jpg  (1920x1280)
+  Used for:  Race Weekend step 3: Qualifying
+  Title:     Esteban Ocon 2026 Italian Grand Prix qualifying.jpg
+  Author:    Eustace Bagge
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:Esteban_Ocon_2026_Italian_Grand_Prix_qualifying.jpg
+
+images/home-weekend-4-race-winner.jpg  (1920x1280)
+  Used for:  Race Weekend step 4: the Grand Prix
+  Title:     2026 Chinese GP - Mercedes - Kimi Antonelli - Post Race Celebration.jpg
+  Author:    Liauzh
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Mercedes_-_Kimi_Antonelli_-_Post_Race_Celebration.jpg
+
+images/home-weekend-5-sprint.jpg  (1920x1080)
+  Used for:  Race Weekend step 5: Sprint weekends
+  Title:     2026 Chinese GP - Red Bull - Max Verstappen - Sprint Qualifying.jpg
+  Author:    Liauzh
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Red_Bull_-_Max_Verstappen_-_Sprint_Qualifying.jpg
+
+images/home-calendar-baku.jpg  (1920x1098)
+  Used for:  The 2026 Season at a Glance
+  Title:     Formula 1 2026 Azerbaijan Grand Prix 1.jpg
+  Author:    Press Service of the President of the Republic of Azerbaijan
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:Formula_1_2026_Azerbaijan_Grand_Prix_1.jpg
+
+images/home-watch-apple-tv.jpg  (1920x1440)
+  Used for:  How to Watch in the US
+  Title:     Apple TV 4K and Siri Remote.jpg
+  Author:    AzureSaturn
+  License:   CC0  http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  Source:    https://commons.wikimedia.org/wiki/File:Apple_TV_4K_and_Siri_Remote.jpg
+
+VIDEO (embed)  https://youtu.be/GaDFJr5wSz0
+  Used for:  The Cars (embedded video)
+  Title:     Everything You Need To Know About the Formula 1 2026 Regulations
+  Channel:   FORMULA 1 (official YouTube channel)
+  License:   NA (embedded content)
+
+======================================================================
+THE 2026 GRID
+======================================================================
+
+images/team-alpine.jpg  (1920x960)
+  Used for:  Alpine card
+  Title:     FIA F1 Austria 2026 Nr. 10 Gasly (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._10_Gasly_(1).jpg
+
+images/team-aston-martin.jpg  (1920x960)
+  Used for:  Aston Martin card
+  Title:     FIA F1 Austria 2026 Nr. 14 Alonso (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._14_Alonso_(1).jpg
+
+images/team-audi.jpg  (1920x960)
+  Used for:  Audi card
+  Title:     FIA F1 Austria 2026 Nr. 27 Hülkenberg (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_(1).jpg
+
+images/team-cadillac.jpg  (1920x960)
+  Used for:  Cadillac card
+  Title:     FIA F1 Austria 2026 Nr. 77 Bottas (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._77_Bottas_(1).jpg
+
+images/team-ferrari.jpg  (1920x960)
+  Used for:  Ferrari card
+  Title:     FIA F1 Austria 2026 Nr. 44 Hamilton (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._44_Hamilton_(1).jpg
+
+images/team-haas.jpg  (1920x960)
+  Used for:  Haas card
+  Title:     FIA F1 Austria 2026 Nr. 87 Bearman (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._87_Bearman_(1).jpg
+
+images/team-mclaren.jpg  (1920x960)
+  Used for:  McLaren card
+  Title:     FIA F1 Austria 2026 Nr. 1 Norris (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._1_Norris_(1).jpg
+
+images/team-mercedes.jpg  (1920x960)
+  Used for:  Mercedes card
+  Title:     FIA F1 Austria 2026 Nr. 63 Russell (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._63_Russell_(1).jpg
+
+images/team-racing-bulls.jpg  (1920x960)
+  Used for:  Racing Bulls card
+  Title:     FIA F1 Austria 2026 Nr. 41 Lindblad (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._41_Lindblad_(1).jpg
+
+images/team-red-bull.jpg  (1920x960)
+  Used for:  Red Bull card
+  Title:     FIA F1 Austria 2026 Nr. 3 Verstappen (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._3_Verstappen_(1).jpg
+
+images/team-williams.jpg  (1920x960)
+  Used for:  Williams card
+  Title:     FIA F1 Austria 2026 Nr. 23 Albon (1).jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._23_Albon_(1).jpg
+
+======================================================================
+GLOSSARY & RULEBOOK
+======================================================================
+
+images/glossary-tire-pirelli-medium.jpg  (1920x1920)
+  Used for:  Tire Compounds
+  Title:     Pirelli P Zero Formula 1 Medium Slick Tyre 2026.jpg
+  Author:    TaurusEmerald
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:Pirelli_P_Zero_Formula_1_Medium_Slick_Tyre_2026.jpg
+
+images/glossary-safety-car.jpg  (1920x1080)
+  Used for:  Glossary: Safety car
+  Title:     2026 Chinese GP - Safety Car & Medical Car.jpg
+  Author:    Liauzh
+  License:   CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Safety_Car_%26_Medical_Car.jpg
+
+images/glossary-chequered-flag.jpg  (1920x1280)
+  Used for:  Flags
+  Title:     FIA F1 Austria 2022 Chequered Flag.jpg
+  Author:    Lukas Raich
+  License:   CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  Source:    https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2022_Chequered_Flag.jpg
+
+VIDEO (embed)  https://youtu.be/-ax69wWKk8A
+  Used for:  Glossary intro (embedded video)
+  Title:     F1 2026 Regulations Explained - "The Biggest Changes in F1 History"
+  Channel:   FIA (official YouTube channel)
+  License:   NA (embedded content)
