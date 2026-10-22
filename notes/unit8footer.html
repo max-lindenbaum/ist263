@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>syr.edu Footer</title>
+    <style>
+  footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Row 1: push the logo and icons to opposite sides */
+  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo { height: 60px; }
+  .social {
+    display: flex;          /* icons sit side by side */
+    gap: 20px;
+  }
+  .social img { width: 40px; }
+
+  /* Row 2: contact info in a line, with a divider underneath */
+  .contact {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 30px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  .contact p { margin: 0; }
+  .contact a {
+    color: #000E54;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  /* Row 3: five equal columns */
+  .links {
+    display: flex;          /* goes on the row */
+    gap: 30px;
+    padding-top: 30px;
+  }
+  .links div {
+    flex: 1;                /* goes on the column */
+    display: flex;
+    flex-direction: column; /* stacks links vertically, replaces <br> */
+    gap: 18px;
+  }
+  .links a { color: #000E54; }
+
+  /* Big bold first column */
+  .links .main a {
+    font-size: 1.6em;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  /* Orange "Information for" heading */
+  .links h3 {
+    color: #D44500;
+    margin: 0;
+  }
+
+  /* Push the last two columns down to line up under the heading */
+  .spaced { padding-top: 40px; }
+
+  /* Orange arrows after the big links */
+  .contact a::after,
+  .links .main a::after {
+    content: " \2192";
+    color: #F76900;
+  }
+</style>
+
+
+
+
+</head>
+<body>
+
+    <footer>
+  <!-- Row 1: logo left, social icons right -->
+  <section class="top">
+    <img class="logo" src="https://laferger.github.io/ist263/images/logo.png" alt="Syracuse University">
+    <div class="social">
+      <img src="https://laferger.github.io/ist263/images/facebook.png" alt="Facebook">
+      <img src="https://laferger.github.io/ist263/images/insta.png" alt="Instagram">
+      <img src="https://laferger.github.io/ist263/images/linkedin.png" alt="LinkedIn">
+      <img src="https://laferger.github.io/ist263/images/youtube.png" alt="YouTube">
+      <img src="https://laferger.github.io/ist263/images/tiktok.png" alt="TikTok">
+      <img src="https://laferger.github.io/ist263/images/x.png" alt="X">
+    </div>
+  </section>
+
+  <!-- Row 2: address, phone, contact links -->
+  <section class="contact">
+    <p>900 South Crouse Ave. Syracuse, NY 13244</p>
+    <p>315.443.1870</p>
+    <a href="#">Contact Us</a>
+    <a href="#">Emergency Contact</a>
+  </section>
+
+  <!-- Row 3: five link columns -->
+  <section class="links">
+    <div class="main">
+      <a href="#">Academics</a>
+      <a href="#">Admissions and Aid</a>
+      <a href="#">Campus Life</a>
+      <a href="#">Research</a>
+      <a href="#">About</a>
+    </div>
+    <div>
+      <a href="#">Athletics</a>
+      <a href="#">Alumni Network</a>
+      <a href="#">News</a>
+      <a href="#">Events</a>
+      <a href="#">Make a Gift</a>
+    </div>
+    <div>
+      <h3>Information for</h3>
+      <a href="#">Admitted Students</a>
+      <a href="#">Current Students</a>
+      <a href="#">Veteran and Military Students</a>
+      <a href="#">Faculty and Staff</a>
+      <a href="#">Alumni</a>
+      <a href="#">Community and Visitors</a>
+      <a href="#">Parents and Families</a>
+    </div>
+    <div class="spaced">
+      <a href="#">Blackboard</a>
+      <a href="#">MySlice</a>
+      <a href="#">Campus Map</a>
+      <a href="#">Campus Store</a>
+      <a href="#">Work at Syracuse</a>
+      <a href="#">Title IX</a>
+    </div>
+    <div class="spaced">
+      <a href="#">Human Resources</a>
+      <a href="#">Syracuse University Brand</a>
+      <a href="#">Accreditation</a>
+      <a href="#">Consumer Information</a>
+      <a href="#">Accessibility</a>
+      <a href="#">Privacy Policy</a>
+    </div>
+  </section>
+</footer>
+
+
+
+</body>
+</html>

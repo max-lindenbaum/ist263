@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex Rows</title>
+    <style>
+        div {
+            border: 1px solid green;
+        }
+        section {
+            display: flex;   /* this property must go on the row */
+        }
+        section div {
+            flex: 1;         /* must be on the column */
+        }
+        .three-quarters {
+            flex: 3;         /* 3 parts vs. 1 part = 3/4 and 1/4 */
+        }
+    </style>
+</head>
+<body>
+    <section><!-- row 1 -->
+        <div>1</div>
+    </section>
+
+    <section><!-- row 2 -->
+        <div>2</div>
+        <div class="three-quarters">3</div>
+    </section>
+
+    <section><!-- row 3 -->
+        <div>4</div>
+        <div>5</div>
+    </section>
+</body>
+</html>
+
+
+
+
+
