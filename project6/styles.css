@@ -1,0 +1,270 @@
+/* Grid Guide - IST 263 project stylesheet (Max Lindenbaum)
+   Palette from the Unit 07 style document, all text pairs WCAG AA */
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    background-color: #FFFFFF;
+    color: #1A1A1A;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+}
+
+h1, h2, h3 { color: #15151E; }
+h1 { font-size: 2.4em; margin: 0 0 10px 0; }
+h2 { font-size: 1.7em; margin-top: 40px; }
+h3 { font-size: 1.2em; margin-bottom: 6px; }
+
+a { color: #D00000; }
+
+img { max-width: 100%; height: auto; display: block; }
+
+/* Navigation (same bar on every page, sticky) */
+nav {
+    background-color: #15151E;
+    color: #FFFFFF;
+    padding: 12px 24px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    z-index: 10;
+}
+
+nav .logo {
+    color: #FFFFFF;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 24px;
+}
+
+nav ul a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 6px 2px;
+    border-bottom: 3px solid transparent;
+}
+
+nav ul a:hover,
+nav ul a.current {
+    border-bottom-color: #E10600;
+}
+
+/* Page sections */
+.page-header {
+    background-color: #F3F3F3;
+    padding: 40px 24px;
+}
+
+main { max-width: 1100px; margin: 0 auto; padding: 0 24px 40px 24px; }
+
+.hero {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    background-color: #F3F3F3;
+    padding: 40px 24px;
+}
+.hero div { flex: 1; }
+.hero img { flex: 1; width: 50%; }
+
+.btn {
+    display: inline-block;
+    background-color: #E10600;
+    color: #FFFFFF;
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.btn.outline {
+    background-color: transparent;
+    color: #D00000;
+    border: 2px solid #D00000;
+}
+
+.band {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    margin: 40px 0;
+}
+.band img { width: 40%; }
+.band div { flex: 1; }
+.band.reverse { flex-direction: row-reverse; }
+
+/* Fast-facts stat tiles */
+.stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    list-style: none;
+    padding: 0;
+}
+.stats li {
+    flex: 1 1 150px;
+    background-color: #F3F3F3;
+    border-top: 4px solid #E10600;
+    padding: 14px;
+    text-align: center;
+}
+.stats b { display: block; font-size: 1.6em; color: #15151E; }
+
+/* Race weekend steps */
+.steps {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    list-style: none;
+    padding: 0;
+    counter-reset: step;
+}
+.steps li {
+    flex: 1 1 180px;
+    background-color: #F3F3F3;
+    padding: 14px;
+}
+.steps li img { margin-bottom: 10px; }
+
+/* Tables */
+table { border-collapse: collapse; width: 100%; margin: 16px 0; }
+th, td { border: 1px solid #CCCCCC; padding: 8px; text-align: left; }
+th { background-color: #15151E; color: #FFFFFF; }
+tr:nth-child(even) td { background-color: #F3F3F3; }
+
+/* Start here cards and team cards */
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card {
+    flex: 1 1 300px;
+    border: 1px solid #DDDDDD;
+    border-top: 6px solid #15151E;
+    padding: 16px;
+}
+.card p.meta { color: #555555; font-size: 0.9em; margin-top: 0; }
+.card img { margin: 10px 0; }
+.card ul { padding-left: 20px; }
+
+/* Team color accent bars on the Grid page */
+.alpine { border-top-color: #0093CC; }
+.aston-martin { border-top-color: #229971; }
+.audi { border-top-color: #BB0A30; }
+.cadillac { border-top-color: #000000; }
+.ferrari { border-top-color: #E80020; }
+.haas { border-top-color: #B6BABD; }
+.mclaren { border-top-color: #FF8000; }
+.mercedes { border-top-color: #27F4D2; }
+.racing-bulls { border-top-color: #6692FF; }
+.red-bull { border-top-color: #3671C6; }
+.williams { border-top-color: #64C4FF; }
+
+/* Glossary page: sidebar + main column */
+.two-col { display: flex; gap: 32px; align-items: flex-start; }
+.sidebar {
+    flex: 0 0 200px;
+    position: sticky;
+    top: 70px;
+    background-color: #F3F3F3;
+    padding: 16px;
+}
+.sidebar ul { list-style: none; padding: 0; margin: 0; }
+.sidebar li { margin: 6px 0; }
+.glossary-main { flex: 1; }
+
+dl dt { font-weight: bold; color: #15151E; margin-top: 14px; }
+dl dd { margin-left: 0; }
+
+/* Footer */
+footer {
+    background-color: #15151E;
+    color: #FFFFFF;
+    padding: 20px 24px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+footer a { color: #FFFFFF; margin-left: 16px; }
+
+/* Grid page: team cards, three columns on a desktop screen */
+.team-grid .card {
+    flex: 0 0 calc((100% - 40px) / 3);
+    border-radius: 4px;
+}
+.card h2 { font-size: 1.3em; margin: 0; }
+.team-grid .card p.meta {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.8em;
+}
+.team-grid .card img { width: 100%; }
+
+/* Driver list with car-number badges */
+.card ul.drivers { list-style: none; padding: 0; margin: 12px 0; }
+.drivers li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 6px 0;
+}
+.drivers .num {
+    flex: 0 0 34px;
+    height: 34px;
+    border: 2px solid #15151E;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 0.85em;
+}
+
+/* Responsive: tablets, two cards per row */
+@media (max-width: 900px) {
+    .team-grid .card { flex-basis: calc((100% - 20px) / 2); }
+}
+
+/* Responsive: phones, one column and a stacked navigation */
+@media (max-width: 700px) {
+    nav {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 0;
+        position: static;
+    }
+    nav .logo { padding: 12px 24px; }
+    nav ul { flex-direction: column; gap: 0; }
+    nav ul a {
+        display: block;
+        padding: 12px 24px;
+        border-bottom: none;
+        border-top: 1px solid #44444D;
+        border-left: 5px solid transparent;
+    }
+    nav ul a:hover,
+    nav ul a.current { border-left-color: #E10600; }
+    .hero, .band, .band.reverse, .two-col { flex-direction: column; }
+    .hero img, .band img { width: 100%; }
+    .sidebar { position: static; flex: none; width: 100%; }
+    .team-grid .card { flex-basis: 100%; }
+    .page-header { padding: 24px; }
+    h1 { font-size: 1.8em; }
+    footer { flex-direction: column; }
+    footer a { margin-left: 0; margin-right: 16px; }
+}
